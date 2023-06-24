@@ -1,5 +1,5 @@
 /*
-* Text File Service Class
+* Text File Service
 */
 import java.io.*;
 import java.util.ArrayList;
